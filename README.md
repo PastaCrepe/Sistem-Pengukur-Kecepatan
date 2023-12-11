@@ -9,3 +9,10 @@ ketika kecepatan yang dikalkulasi melebihi 50km/jam, maka kelauarnnya akan terte
 -lcd akan menampilkan terlalu cepat
 -buzzer aktif, dan
 -remote shutter akan mengaktifkan kamera dan kamera memotret kendaraan yang terlalu cepat
+
+anggota pengerjaan
+-Akamal Al Khaeri
+-Alghifari Syarief
+-Athallah Putra Fajar Prijaka
+-Muhammad Daffa Faidhullah
+-M. Novrian Adillah
