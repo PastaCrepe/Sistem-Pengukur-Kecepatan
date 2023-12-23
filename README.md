@@ -1,6 +1,11 @@
 # Kelompok 6 PST Sistem Pengukur kecepatan
 
-Link demo sistem dapat dilihat di https://youtu.be/c0fpd4xZqVQ
+Anggota Pengerjaan :
+-Akamal Alkhaeri
+-Alghifari Syarief
+-Athallah Putra Fajar Prijaka
+-Muhammad Daffa Faidhullah
+-Muhammad Novrian Adillah
 
 Pengenalan :
 Sistem memiliki input berupa dua sensor inframerah, dan output berupa buzzer, foto kamera, dan LCD I2C
@@ -15,10 +20,8 @@ Terdapat Dua keadaan pada sistem, yang berbentuk:
   -remote shutter akan mengaktifkan kamera dan kamera memotret kendaraan yang terlalu cepat
   Bila kecepatan tidak melebihi 50km/jam, maka sistem menampilkan kecepatan aman di lcd.
 
-Anggota pengerjaan :
--Akamal Alkhaeri
--Alghifari Syarief
--Athallah Putra Fajar Prijaka
--Muhammad Daffa Faidhullah
--Muhammad Novrian Adillah
+VIdeo dapat ditonton dibawah
 
+https://github.com/PastaCrepe/Sistem-Pengukur-Kecepatan/assets/76557101/a4b3b208-0a61-401d-9048-1576b8fc5ad5
+
+Link untuk video dengan kualitas lebih baik dapat ditonton di https://www.youtube.com/watch?v=c0fpd4xZqVQ&t=1s
