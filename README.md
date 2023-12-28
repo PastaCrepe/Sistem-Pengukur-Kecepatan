@@ -1,7 +1,7 @@
 # Kelompok 6 PST Sistem Pengukur kecepatan
 
 Anggota Pengerjaan :
--Akamal Alkhaeri
+-Akmal Alkhaeri
 -Alghifari Syarief
 -Athallah Putra Fajar Prijaka
 -Muhammad Daffa Faidhullah
