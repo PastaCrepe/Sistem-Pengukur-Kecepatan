@@ -1,4 +1,4 @@
-# Kelompok 6 PST Sistem Pengukur kecepatan
+# Kelompok 6 PST Sistem Pendeteksi Kecepatan Kendaraan
 
 Anggota Pengerjaan :
 -Akmal Alkhaeri
